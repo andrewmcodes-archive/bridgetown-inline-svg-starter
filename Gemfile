@@ -19,5 +19,5 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 gem "bridgetown", "~> 0.15.0"
 
 group :bridgetown_plugins do
-  gem "bridgetown-inline-svg", git: 'https://github.com/andrewmcodes/bridgetown-inline-svg.git', branch: 'main'
+  gem "bridgetown-inline-svg", "~> 1.1.0"
 end
