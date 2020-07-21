@@ -3,9 +3,14 @@
   <a href="https://github.com/andrewmcodes/bridgetown-inline-svg-starter/blob/main/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
+  <a href="https://gitpod.io/#https://github.com/andrewmcodes/bridgetown-inline-svg-starter" target="_blank">
+    <img alt="Gitpod ready-to-code" src="https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod" />
+  </a>
 </p>
 
 > A simple starter template for building a static Bridgetown site with inlined SVGs using the [bridgetown-inline-svg](https://github.com/andrewmcodes/bridgetown-inline-svg) plugin.
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/andrewmcodes/bridgetown-inline-svg-starter)
 
 ## Install
 
