@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/MikeRogers0/bridgetown-inline-svg.git
-  revision: 040017c4ea454e142da78b1867cb831864a6d670
+  revision: e118a9b8404d73ab8cfe834fdb6634673011221f
   branch: feature/use-site-builder-class
   specs:
     bridgetown-inline-svg (1.1.0)
