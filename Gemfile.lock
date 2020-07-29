@@ -1,3 +1,12 @@
+GIT
+  remote: https://github.com/MikeRogers0/bridgetown-inline-svg.git
+  revision: e71882e49cb6e9aa2d14d5698eafee1fd1541e7d
+  branch: feature/use-site-builder-class
+  specs:
+    bridgetown-inline-svg (1.1.0)
+      bridgetown (>= 0.15, < 2.0)
+      svg_optimizer (~> 0.2.5)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -37,9 +46,6 @@ GEM
       terminal-table (~> 1.8)
       thor (~> 1.0)
       tilt (~> 2.0)
-    bridgetown-inline-svg (1.1.0)
-      bridgetown (>= 0.15, < 2.0)
-      svg_optimizer (~> 0.2.5)
     bridgetown-paginate (0.16.0)
       bridgetown-core (= 0.16.0)
     colorator (1.1.0)
@@ -96,7 +102,7 @@ PLATFORMS
 
 DEPENDENCIES
   bridgetown (~> 0.16.0)
-  bridgetown-inline-svg (~> 1.1.0)
+  bridgetown-inline-svg (~> 1.1.0)!
 
 BUNDLED WITH
    2.1.4
